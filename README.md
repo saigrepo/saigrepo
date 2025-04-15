@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=saigrepo&icon=5&color=6" alt="Profile Views" />
-</div>
 
 <div align="center"> 
 	
